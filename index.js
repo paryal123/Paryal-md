@@ -181,7 +181,7 @@ const {
 
 //owner react
 
-if(senderNumber.includes("923237045919")){
+if(senderNumber.includes("923467879144{
   if(isReact)return;
   m.react("🔓");  }
 
