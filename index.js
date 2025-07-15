@@ -67,10 +67,10 @@ const {
   }
   });
   console.log('Plugins installed successful ✅')
-  console.log('your name connected to whatsapp ✅')
+  console.log('paryal-md connected to whatsapp ✅')
   
   let up =`╔═════════════════╗
-  ║      your name           
+  ║      paryal-md           
   ║  SUCCESSFULLY CONNECTED ✅ 😍        
   ╠═════════════════╣
   ║      • PREFIX: .            
@@ -79,10 +79,10 @@ const {
   ║ https://whatsapp.com/channel/0029Vb6E8BQ9cDDVa0rTk01C              
   ╟─────────────────╢
   ║ ♻ 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐋𝐈𝐍𝐊          
-  ║ https://wa.me/message/VRZ5QLDAHXKSF1                 
+  ║  https://wa.me/923467879144?text=Assalamualikum%20miss%20paryal              
   ╠═════════════════╣
   ║      your name               
-  ║ > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ your name       
+  ║ > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ paryal-md       
   ╚═════════════════╝
 `;
   conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/atby2t.png` }, caption: up })
